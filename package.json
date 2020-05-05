@@ -9,7 +9,8 @@
     "react-dom": "^16.13.1"
   },
   "devDependencies": {
-    "frontmatter-markdown-loader": "^3.4.2"
+    "frontmatter-markdown-loader": "^3.4.2",
+    "prettier": "^2.0.5"
   },
   "scripts": {
     "dev": "next",
